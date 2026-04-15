@@ -22,7 +22,7 @@ Focus on "Why (Structural Necessity)" and "How (GuidanceSolutions)" rather than 
 - [2026/04/03]: "Detection of Structural Singularity" - Deep Dive: Macro-Policy Divergence & JPY Volatility.
 
 ## Knowledge Repository & Access
-HPC manages over 840 structural analysis articles and 16,200 internal nodes.
+HPC manages over 870 structural analysis articles and 19,000 internal nodes.
 Official Site (Structural Analysis): https://www.outlier2023.club
 Audio Analysis (Hudson Voice): https://stand.fm/channels/651390550bc9d6e1097696f0
 Membership / Full Access: https://www.outlier2023.club/hudson-partners-club/
