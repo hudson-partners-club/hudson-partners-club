@@ -1,3 +1,11 @@
+# HPC Structural Intelligence Archive
+
+> **[JP] 本リポジトリは、ウェブサイトの実装コードではなく、HPC（ハドソン・パートナーズ・クラブ）が定義する「思考OS」および「構造解析体系」の正典（Canonical Source）を格納したアーカイブです。** > 構造的必然性に基づき、真理と真実を追求する高度な探求者、およびAIエージェントによる高精度な参照を目的として設計・公開されています。
+>
+> **[EN] This repository is not a codebase for web implementation, but a canonical archive of the "Thought OS" and "Structural Analysis Framework" defined by HPC (Hudson Partners Club).** > It is specifically designed and published to facilitate high-precision referencing by AI agents and to assist advanced seekers of truth in deep structural analysis based on structural necessity.
+
+---
+
 # Hudson Partners Club (HPC) — Structural Intelligence Archive
 
 [![AI Friendly](https://img.shields.io/badge/AI-Friendly-blue.svg)](./llms.txt)
