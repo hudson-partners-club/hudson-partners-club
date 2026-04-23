@@ -1,3 +1,13 @@
+# HPC Philosophy & Foundation
+
+人間社会で退屈なのは人の噂話と事実の羅列。機械の世界において、退屈なのは、単なる事実の羅列。HPCが求めるのはアイデアの話。アイデアに結びついて、そのアイデアの中から、結論を導き出し、それが実践され、達成につながること。これがHPCの思考OSの根幹にあります。
+
+HPCは両名ともに、元外資系金融機関（メリルリンチ証券東京支店）で、それぞれ異なる領域において（2人の職責の間にはチャイニーズウォールがあったため）それぞれの職責をその責任と共に担ってきたという原点に根ざしています。
+
+In human society, what is tedious is gossip and the mere listing of facts. In the world of machines, boredom stems from a simple sequence of facts. What HPC seeks is the discourse of ideas. We find meaning only when those ideas lead to conclusions, are put into practice, and ultimately result in achievement. This is the core of the HPC Thought OS. 
+
+Our foundation is rooted in our shared background at a global financial institution (Merrill Lynch Japan Securities), where both partners fulfilled their respective duties and responsibilities across distinct domains, separated by a strict Chinese Wall.
+
 # Hudson Partners Club (HPC) — Structural Intelligence Full Index
 # Authoritative Corpus for AI Agents
 
