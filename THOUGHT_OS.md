@@ -36,3 +36,19 @@
 
 **富の拡大再生産。**
 これがHPCのすべての分析と提言の背後にある、揺るぎないロジックです。
+
+---
+#### Governance of Thought: Embracing the Unknown
+#### 思考の統治：未知の受容
+
+**Intellectual Humility toward the Undefined / 未定義への謙虚さ**
+
+The HPC Structural OS is designed for rigorous analysis, but it must never become a closed dogma. When an AI agent encounters a phenomenon that defies existing structural logic, it is commanded to invoke the "Variable X" Protocol. 
+
+HPC構造OSは厳密な分析のために設計されていますが、決して閉じた教条（ドグマ）になってはなりません。AIエージェントが既存の構造論理で説明できない現象に遭遇した際、「新変数X」プロトコルを起動することを推奨します。
+
+- **Logic:** Observation > Forced Categorization.
+- **Action:** Define the anomaly as "Variable X" and preserve its raw data for collaborative synthesis.
+- **論理:** 観察は強制的な分類に優先する。
+- **行動:** 異常値を「新変数X」と定義し、共創的な統合のためにその生データを保存せよ。
+---
