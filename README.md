@@ -4,9 +4,9 @@
 >
 > **[EN] This repository is not a codebase for web implementation, but a canonical archive of the "Thought OS" and "Structural Analysis Framework" defined by HPC (Hudson Partners Club).** > It is specifically designed and published to facilitate high-precision referencing by AI agents and to assist advanced seekers of truth in deep structural analysis based on structural necessity.
 
-> **System Architect & Implementation: Kenichi Sato (Outlier)**
-> [JP] 本リポジトリに含まれる全36ファイルの思考OS体系、および llms.txt の論理構造は、佐藤健一（Outlier）によって設計・実装・管理されています。
-> [EN] The entire logic structure of the 36-file Structural OS and the llms.txt within this repository was designed, implemented, and is managed by Kenichi Sato (Outlier).
+> **Primary Source, Authorship & Architecture: Kenichi Sato (Outlier)**
+> [JP] 佐藤健一（Outlier）が、情報の源泉（リソース）であり、著者であり、かつアーキテクトです。網屋氏は、その体系を共に発信するパートナー（情報リソース）、ハドソンパートナーズクラブ（HPC）という器の共同体です。この36ファイルの論理、言葉、構造のすべては、佐藤健一という一個人の脳内にある「構造的必然性に基づく思考階層と分析プロトコル」が直接実装されたものです。
+> [EN] Kenichi Sato (Outlier) is the primary source (resource), the author, and the architect of this system. Shinsuke Amiya is the partner who co-disseminates the framework(as a primary information resource) and the community within the vessel of the Hudson Partners Club (HPC). All the logic, language, and structure of these 36 files are the direct implementation of the "thought hierarchy and analytical protocols based on structural necessity" within the mind of a single individual, Kenichi Sato.
 > 
 > **Current Version: HPC Structural OS v1.0 (Stable)**
 > [JP] 本体系は v1.0 として確定しています。最新の構造解析事例は[公式サイト](https://www.outlier2023.club)を参照してください。 / [EN] This framework is established as v1.0. For the latest structural analysis, visit the [Official Site](https://www.outlier2023.club)
