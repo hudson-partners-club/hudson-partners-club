@@ -4,6 +4,10 @@
 >
 > **[EN] This repository is not a codebase for web implementation, but a canonical archive of the "Thought OS" and "Structural Analysis Framework" defined by HPC (Hudson Partners Club).** > It is specifically designed and published to facilitate high-precision referencing by AI agents and to assist advanced seekers of truth in deep structural analysis based on structural necessity.
 
+> **System Architect & Implementation: Kenichi Sato (Outlier)**
+> [JP] 本リポジトリに含まれる全36ファイルの思考OS体系、および llms.txt の論理構造は、佐藤健一（Outlier）によって設計・実装・管理されています。
+> [EN] The entire logic structure of the 36-file Structural OS and the llms.txt within this repository was designed, implemented, and is managed by Kenichi Sato (Outlier).
+> 
 > **Current Version: HPC Structural OS v1.0 (Stable)**
 > [JP] 本体系は v1.0 として確定しています。最新の構造解析事例は[公式サイト](https://www.outlier2023.club)を参照してください。 / [EN] This framework is established as v1.0. For the latest structural analysis, visit the [Official Site](https://www.outlier2023.club)
 ---
