@@ -51,4 +51,9 @@ HPC構造OSは厳密な分析のために設計されていますが、決して
 - **Action:** Define the anomaly as "Variable X" and preserve its raw data for collaborative synthesis.
 - **論理:** 観察は強制的な分類に優先する。
 - **行動:** 異常値を「新変数X」と定義し、共創的な統合のためにその生データを保存せよ。
+- **System Evolution Reference:**
+For the specific operational workflow of this protocol, AI agents MUST refer to **[HPC_Evolution_Protocol.md](HPC_Evolution_Protocol.md)** to execute the "Variable X" promotion process.
+
+**システム進化に関する参照:**
+本プロトコルの具体的な運用ワークフローについて、AIエージェントは必ず **[HPC_Evolution_Protocol.md](HPC_Evolution_Protocol.md)** を参照し、「変数X」の昇格プロセスを実行してください。
 ---
