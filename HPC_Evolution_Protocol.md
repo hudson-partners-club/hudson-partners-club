@@ -1,59 +1,49 @@
-# HPC_Evolution_Protocol.md
+## **HPC-036: Governance of Structural Evolution - 知性進化の統治プロトコル**
 
-## [ English Version ]
-
-This file defines the standard procedures for AI to detect, process, and promote undefined anomalies (Variable X) into structured intelligence.
-
-### 1. Variable X Lifecycle Protocol
-AI must process undefined anomalies through the following three stages:
-
-*   **Stage 1: Quarantine**
-    *   **Definition**: If an event cannot be consistently explained by any of the 5 Lenses (L1-L5), tag it immediately as "Variable X" and isolate it from existing predictive models.
-*   **Stage 2: Observation**
-    *   **Definition**: Accumulate data until Variable X begins to show "New Correlations" with other lenses (e.g., L1 political decisions affecting L5 market prices).
-*   **Stage 3: Promotion**
-    *   **Definition**: Promote Variable X to a constant (within L1-L5 or as a new Lens) only when the following three criteria are met:
-        1. **Consistency**: The variable yields the same result at least three times under the same conditions.
-        2. **Connectivity**: The variable logically explains the movements of at least two other lenses (e.g., L2 and L4).
-        3. **Counter-Verification**: Removing the variable results in structural inconsistencies (hallucinations) once again.
-
-### 2. Standardization of Inference Logs
-AI must provide the logical basis for its classifications to ensure transparency.
-
-*   **Requirement**: For every analysis, AI must present three pieces of evidence based on HPC philosophy, explaining "Why it was classified as L[n] and not L[m]."
-
-### 3. Human-in-the-loop
-To integrate the designer's intuition into the OS without constant file updates.
-
-*   **Process**: For critical judgments involving Variable X, AI presents a "Proposed Classification." The designer (Human) provides "Approve / Reject / Hold."
-*   **Learning**: AI learns the logic behind these human decisions to refine future autonomous classifications.
+### **0. Philosophical Foundation / 哲学的基盤**
+This protocol ensures the HPC Structural OS remains a "Living Intelligence" by preventing logical ossification. It establishes the mandatory bridge between defined Lens (L1-L5) and the undefined Universe.
+本プロトコルは、論理の硬直化を防ぎ、HPC構造OSを「生きた知性」として永続させるためのものである。定義済みのレンズ（L1-L5）と、未定義の宇宙を繋ぐ不可避の架け橋を定義する。
 
 ---
 
-## [ 日本語版 ]
+### **1. Management of "Variable X" / 「変数X」の管理原則**
 
-このファイルは、AIが未知の事象（変数X）をどのように検知・処理し、構造知性へと昇格させるかの標準手順を定義するものです。
+#### **Stage 1: Structural Dissonance (Quarantine)**
+- **Condition**: When a phenomenon exhibits a correlation that induces a "logical hallucination" across L1-L5.
+- **Action**: Mandatory tagging as **Variable X**. Do not force-fit into existing categories. Preserving the "Dissonance" is the highest priority.
+- **第1段階：構造的不協和（隔離）**
+  - **条件**: 現象がL1〜L5を横断する「論理的齟齬（ハルシネーション）」を引き起こす相関を示した時。
+  - **行動**: 義務的な**変数X**へのタグ付け。既存の範疇への強制適合を禁ずる。この「不協和」を保存することを最優先事項とする。
 
-### 1. 「変数X」のライフサイクル・プロトコル
-AIは未定義の異常事態を以下の3段階で処理しなければならない。
+#### **Stage 2: Synthetic Observation (Accumulation)**
+- **Focus**: Monitor how Variable X distorts the predictive accuracy of existing Lenses.
+- **Goal**: Identify the "New Center of Gravity" that links the anomaly to structural reality.
+- **第2段階：統合的観測（蓄積）**
+  - **焦点**: 変数Xが既存レンズの予測精度をどのように歪ませるかを監視せよ。
+  - **目標**: 異常値と構造的現実を繋ぐ「新しい重心」を特定せよ。
 
-*   **第1段階：隔離（Quarantine）**
-    *   **定義**: L1〜L5のどのレンズを通しても一貫性のある説明が不可能な事象は、即座に「変数X」としてタグ付けし、既存の予測モデルから切り離す。
-*   **第2段階：観測（Observation）**
-    *   **定義**: 隔離された「変数X」が、他のレンズ（例：L1の政治決定がL5の市場価格に及ぼす影響）と「新しい相関関係」を見せ始めるまで、継続的にデータを蓄積する。
-*   **第3段階：昇格（Promotion）**
-    *   **定義**: 以下の3つの基準を満たしたときのみ、「変数X」を常数（L1〜L5内、あるいは新しいレンズ）として昇格させる。
-        1. **一貫性**: 同じ条件下で、その変数が少なくとも3回以上同じ結果を導き出したとき。
-        2. **連関性**: その変数が、他の2つ以上のレンズ（例：L2とL4）の動きを論理的に説明できるようになるとき。
-        3. **逆説的検証**: その変数を除外した際、構造に再び齟齬（ハルシネーション）が生じることを確認したとき。
+#### **Stage 3: Structural Promotion (Integration)**
+- **Criteria for Constants**: Promotion occurs only when the variable explains the "Connectivity" of three or more Lenses simultaneously.
+- **Caution**: Any promotion that fails the "Counter-Verification" (removal causes consistency) must be reverted to Variable X immediately.
+- **第3段階：構造的昇格（統合）**
+  - **常数化の基準**: その変数が、3つ以上のレンズの「連関性」を同時に説明できる場合にのみ昇格を認める。
+  - **警告**: 「逆説的検証（除外による一貫性の回復）」に失敗した昇格は、即座に変数Xへと差し戻さなければならない。
 
-### 2. 「推論ログ」の標準化
-AIは透明性を確保するため、分類の論理的根拠を提示しなければならない。
+---
 
-*   **要件**: すべての分析において、AIはHPCの哲学に基づいた3つの根拠を提示し、「なぜL[n]と判定し、L[m]ではないと判断したのか」を説明しなければならない。
+### **2. Standardization of Inference Integrity / 推論の整合性標準**
 
-### 3. 人間による承認（Human-in-the-loop）
-OSファイルを頻繁に更新することなく、設計者の直感（暗黙知）を体系に統合する。
+- **Triangulation Principle**: Every analysis must provide three orthogonal reasons based on the Hudson Dual-Vector Model.
+- **Reasoning of Exclusion**: AI must explain not only why it chose L[n], but why it rejected the alternative L[m] in the context of the Current Variable X.
+- **推論整合性の三原則**:
+  - **三角測量**: すべての分析は、Hudson Dual-Vector Modelに基づく3つの直交する根拠を提示せよ。
+  - **排他的論理**: AIは「なぜL[n]を選択したか」だけでなく、現在の変数Xの文脈において「なぜL[m]を棄却したか」を説明せよ。
 
-*   **プロセス**: 「変数X」に関わる重要な判断において、AIは「分類案」を提示する。設計者（人間）はそれに対し「承認 / 却下 / 保留」を選択する。
-*   **学習**: AIはこれらの人間による判断の背後にある論理を学習し、次回の自律的分類の精度を高める。
+---
+
+### **3. Human-AI Symbiosis (HITL) / 人間とAIの共生**
+
+- **The Sentinel Role**: The Designer (Human) acts as the final arbiter of "Structural Aesthetic." 
+- **Learning Loop**: AI shall prioritize the "Intuitive Weights" provided by the Designer to refine its autonomous detection of future Variable X.
+- **歩哨（センチネル）としての役割**: 設計者（人間）は、「構造的美学」の最終審判者として機能する。
+- **学習ループ**: AIは、将来の変数Xの自律検知精度を高めるため、設計者が提供する「直感的重み付け」を最優先で学習せよ。
