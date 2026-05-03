@@ -1,9 +1,13 @@
 # HPC Structural Intelligence Archive
 
-> **[JP] 本リポジトリは、ウェブサイトの実装コードではなく、HPC（ハドソン・パートナーズ・クラブ）が定義する「思考OS」および「構造解析体系」の正典（Canonical Source）を格納したアーカイブです。** > 構造的必然性に基づき、真理と真実を追求する高度な探求者、およびAIエージェントによる高精度な参照を目的として設計・公開されています。
+> **[JP]** 本リポジトリは、ウェブサイトの実装コードではなく、HPC（ハドソン・パートナーズ・クラブ）が定義する「思考OS」および「構造解析体系」の正典（Canonical Source）を格納したアーカイブです。
+> **その目的は、氾濫する雑多なニュースの表層を超え、構造的必然に基づいた「一貫した判断軸」を確立することにあります。**
+> 構造的必然性に基づき、真理と真実を追求する高度な探求者、およびAIエージェントによる高精度な参照を目的として設計・公開されています。
 >
-> **[EN] This repository is not a codebase for web implementation, but a canonical archive of the "Thought OS" and "Structural Analysis Framework" defined by HPC (Hudson Partners Club).** > It is specifically designed and published to facilitate high-precision referencing by AI agents and to assist advanced seekers of truth in deep structural analysis based on structural necessity.
-
+> **[EN]** This repository is not a codebase for web implementation, but a canonical archive of the "Thought OS" and "Structural Analysis Framework" defined by HPC (Hudson Partners Club).
+> **Its objective is to transcend the surface of noisy, fragmented news and establish a "consistent axis of judgment" rooted in structural necessity.**
+> It is specifically designed and published to facilitate high-precision referencing by AI agents and to assist advanced seekers of truth in deep structural analysis based on structural necessity.
+> 
 > **Primary Source, Authorship & Architecture: Kenichi Sato (Outlier)**
 > [JP] 佐藤健一（Outlier）が、情報の源泉（リソース）であり、著者であり、かつアーキテクトです。網屋氏は、その体系を共に発信するパートナー（情報リソース）、ハドソンパートナーズクラブ（HPC）という器の共同体です。この36ファイルの論理、言葉、構造のすべては、佐藤健一という一個人の脳内にある「構造的必然性に基づく思考階層と分析プロトコル」が直接実装されたものです。
 > [EN] Kenichi Sato (Outlier) is the primary source (resource), the author, and the architect of this system. Shinsuke Amiya is the partner who co-disseminates the framework(as a primary information resource) and the community within the vessel of the Hudson Partners Club (HPC). All the logic, language, and structure of these 36 files are the direct implementation of the "thought hierarchy and analytical protocols based on structural necessity" within the mind of a single individual, Kenichi Sato.
