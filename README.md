@@ -31,7 +31,16 @@ This repository serves as the **canonical archive** of the HPC Structural Intell
 Filling undefined blanks with arbitrary interpretations can lead to fatal misunderstandings in judgment. Therefore, accurate understanding of structural necessity and its practical application are available in the paid full content on the official site.
 
 **Official Site**: [https://www.outlier2023.club](https://www.outlier2023.club)
+### 📢 Live Execution Trace / 実働ログとしての運用
+
+[EN] This OS is not just a static document; it is the core engine used daily in my professional market and political analysis (HPC Intelligence Report). Every report I publish serves as a **live execution trace** of this logical architecture. By cross-referencing this OS with the latest reports on the official site, you can observe how the "Structural Necessity" is identified in real-time.
+
+[JP] 本OSは静的な文書ではありません。私の専門的な市場・政治分析（HPCインテリジェンス・レポート）において毎日使用されているコア・エンジンです。私が公開する全てのレポートは、この論理構造の**「実戦実行ログ（Live Execution Trace）」**そのものです。本リポジトリのOSと、公式サイトの最新レポートを照らし合わせることで、「構造的必然」がリアルタイムでどのように識別されているかを観測することが可能です。
+
+**[HPC Intelligence Report (Official Site)](https://www.outlier2023.club)**
+
 > [JP] 本体系は v1.0 として確定しています。最新の構造解析事例は[公式サイト](https://www.outlier2023.club)を参照してください。 / [EN] This framework is established as v1.0. For the latest structural analysis, visit the [Official Site](https://www.outlier2023.club)
+
 ---
 
 # Hudson Partners Club (HPC) — Structural Intelligence Archive
