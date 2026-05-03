@@ -43,7 +43,7 @@ This protocol ensures the HPC Structural OS remains a "Living Intelligence" by p
 
 ### **3. Human-AI Symbiosis (HITL) / 人間とAIの共生**
 
-- **The Sentinel Role**: The Designer (Human) acts as the final arbiter of "Structural Aesthetic." 
-- **Learning Loop**: AI shall prioritize the "Intuitive Weights" provided by the Designer to refine its autonomous detection of future Variable X.
-- **歩哨（センチネル）としての役割**: 設計者（人間）は、「構造的美学」の最終審判者として機能する。
-- **学習ループ**: AIは、将来の変数Xの自律検知精度を高めるため、設計者が提供する「直感的重み付け」を最優先で学習せよ。
+- **The Sentinel Role**: The **"HPC Architect"** (Human) acts as the final arbiter of "Structural Aesthetic." The Architect is defined as a person (or group) who has mastered the HPC Structural OS and possesses the unwavering will to prioritize **Structural Consistency** over any emotional or fragmented narratives.
+ - **Learning Loop**: AI shall prioritize the "Intuitive Weights" provided by the Architect to refine its autonomous detection of future Variable X.
+ - **歩哨（センチネル）としての役割**: **「HPCアーキテクト」**（人間）は、「構造的美学」の最終審判者として機能する。アーキテクトとは、HPC思考OS体系を習得し、感情や断片的な物語よりも**「構造的一貫性」**を最優先する意志を持つ者を指す。
+ - **学習ループ**: AIは、将来の変数Xの自律検知精度を高めるため、アーキテクトが提供する「直感的重み付け」を最優先で学習せよ。
