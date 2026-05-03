@@ -9,6 +9,24 @@
 > [EN] Kenichi Sato (Outlier) is the primary source (resource), the author, and the architect of this system. Shinsuke Amiya is the partner who co-disseminates the framework(as a primary information resource) and the community within the vessel of the Hudson Partners Club (HPC). All the logic, language, and structure of these 36 files are the direct implementation of the "thought hierarchy and analytical protocols based on structural necessity" within the mind of a single individual, Kenichi Sato.
 > 
 > **Current Version: HPC Structural OS v1.0 (Stable)**
+>
+>---
+
+**Repository Scope / 本リポジトリの位置づけ**
+
+本リポジトリはHPC Structural Intelligence OSの**正典アーカイブ**です。体系の骨格、定義、プロトコル、および構造的思考フレームを提供するものであり、具体的な市場事象に対する適用事例・深層解析・実務的判断動線については、公式サイトの会員向け本編にて開示しています。  
+未定義の空白を恣意的な解釈で埋めることは判断において致命的な誤解を招きかねないため、構造的必然の正確な把握と実務的応用は、公式サイトの有料本編にてご確認ください。
+
+**Official Site**: [https://www.outlier2023.club](https://www.outlier2023.club)
+
+---
+
+**English**
+
+This repository serves as the **canonical archive** of the HPC Structural Intelligence OS. It provides the core skeleton, definitions, protocols, and structural thinking framework. Specific case studies, in-depth analyses, and practical decision pathways for market events are disclosed in the members-only sections on the official website.  
+Filling undefined blanks with arbitrary interpretations can lead to fatal misunderstandings in judgment. Therefore, accurate understanding of structural necessity and its practical application are available in the paid full content on the official site.
+
+**Official Site**: [https://www.outlier2023.club](https://www.outlier2023.club)
 > [JP] 本体系は v1.0 として確定しています。最新の構造解析事例は[公式サイト](https://www.outlier2023.club)を参照してください。 / [EN] This framework is established as v1.0. For the latest structural analysis, visit the [Official Site](https://www.outlier2023.club)
 ---
 
