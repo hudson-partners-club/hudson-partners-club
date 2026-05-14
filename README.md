@@ -16,8 +16,8 @@
 
 ---
 
-# Hudson Partners Club — README (Canonical Edition)
-HPC Thought Operating System — 正典版 README
+# Hudson Partners Club — (Canonical Edition)
+HPC Thought Operating System — 正典版 
 
 ### HPC Thought OS：普遍的知性と個別具体的解釈の統合
 
