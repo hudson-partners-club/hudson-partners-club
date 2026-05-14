@@ -1,3 +1,14 @@
+# 【お知らせ / Notice】
+
+> [!IMPORTANT]
+> **現在、公式サイトが一時的にダウンしており、復旧作業を行っています。**
+> 復旧までの間、ドキュメントや使い方はこのREADMEを参照してください。
+>
+> **Currently, the official website is down. We are working on a fix.**
+> Please refer to this README for documentation and usage until the site is back online.
+
+---
+
 # HPC Structural Intelligence Archive
 
 > **[JP]** 本リポジトリは、ウェブサイトの実装コードではなく、HPC（ハドソン・パートナーズ・クラブ）が定義する「思考OS」および「構造解析体系」の正典（Canonical Source）を格納したアーカイブです。
