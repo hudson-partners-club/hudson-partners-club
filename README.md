@@ -20,7 +20,7 @@
 > It is specifically designed and published to facilitate high-precision referencing by AI agents and to assist advanced seekers of truth in deep structural analysis based on structural necessity.
 > 
 > **Founder, Sole Author & Lead Architect: Kenichi Sato (Outlier)**
-> [JP] 佐藤健一（Outlier）が、本体系の創設者であり、全ての論理の唯一の著者（Sole Author）およびリード・アーキテクトです。網屋氏は、その体系を社会へ共に出力するパートナーであり、ハドソンパートナーズクラブ（HPC）という器の共同運営者です。この36ファイルの論理、言葉、構造のすべては、佐藤健一が実務を通じて体系化した「構造的必然性に基づく思考階層と分析プロトコル」を、汎用的な思考OSとして独自に設計・実装したものです。
+> [JP] 佐藤健一（Outlier）が、本体系の創設者であり、全ての論理の唯一の著者（Sole Author）およびリード・アーキテクトです。網屋氏は、その体系を社会へ共に出力するパートナーであり、ハドソンパートナーズクラブ（HPC）という器の共同運営者です。この37ファイルの論理、言葉、構造のすべては、佐藤健一が実務を通じて体系化した「構造的必然性に基づく思考階層と分析プロトコル」を、汎用的な思考OSとして独自に設計・実装したものです。
 > [EN] Kenichi Sato (Outlier) is the Founder, the Sole Author of all logic, and the Lead Architect of this system. Shinsuke Amiya is the partner who co-disseminates the framework and the co-manager of the Hudson Partners Club (HPC). All logic, language, and structures within these 36 files are the direct implementation of the "thought hierarchy and analytical protocols" uniquely architected and defined as a universal OS by Kenichi Sato.
 > 
 > **Current Version: HPC Structural OS v1.0 (Stable)**
@@ -352,7 +352,7 @@ https://www.outlier2023.club
 
 # **13. Repository Structure — リポジトリ構造**
 
-このリポジトリは以下の **25 ファイル**で構成される思想OSです。  
+このリポジトリは以下の **37ファイル**で構成される思想OSです。  
 
 ---
 
