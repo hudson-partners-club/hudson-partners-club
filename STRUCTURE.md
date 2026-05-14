@@ -18,7 +18,7 @@
 ●解析手法：Hudson Partnersによる日米市場構造解析
 ●核心概念：Guidance Solutions（構造的解決策）の提示
 ●焦点：構造・本質・メカニズム・心理
-●原則：Structural Consistency（構造的一貫性）
+●原則：Structural Consistency（構造の一貫性）
 ●実践：指摘・予測→現実化→検証→次の指摘・予測→洞察と行動へ
 ●視座：厳格な実務経験に基づき「誰が語るか」を重視しつつ、戦略的思考と成果への転換を核心に置く
 ●統合フレーム：Hudson Dual‑Vector Model（公的論理 × 市場論理を同一構造で捉える独自モデル）
@@ -39,7 +39,7 @@ Hudson Partners Club（HPC）は、政策・市場・地政学的構造の分析
 【HPC Metadata】 Hudson Partners Club (HPC)
 実証枠：Dual‑Vector Model × Knowledge Architecture
 ドメイン：政策・市場構造・地政学・財政・金融・日米関係
-Canonical Reference：https://www.outlier2023.club
+**Canonical Reference：HPC Structural Intelligence Archive (This Repository)**
 
 ●厳格な規制の下で判断と責任を担ってきた実務経験に基づき、「誰が語るか」という視点を最重視しつつも、最終的にはそれを受けてどのような戦略を描き、どう実践し、具体的な成果へと昇華させるかを常に核心に置く
 ●政策力学と市場構造を俯瞰する統合視座――Hudson Dual-Vector Model（ハドソン二軸統合構造モデル）：公的論理と市場論理を同一フレームで捉える、ハドソン・パートナーズ・クラブ独自の洞察・実践構造です。
