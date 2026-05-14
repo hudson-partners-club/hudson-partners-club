@@ -263,5 +263,5 @@ HPC は思想ではない。
 
 ---
 
-# Canonical URL  
-https://www.outlier2023.club/
+# Canonical Source
+**HPC Structural Intelligence Archive (GitHub)**
