@@ -1,3 +1,27 @@
+# THOUGHT_OS.md — HPC Thought Operating System Kernel
+
+## Core Concept / 核となる概念
+
+### HPC Thought OS：普遍的知性と個別具体的解釈の統合
+
+HPCが提供するのは、特定の時代や市場に限定される「一時的な単発情報」ではありません。様々な事象、いろいろな市場、そしてその人その人の意思決定という「アプリケーション」を動かすための、普遍的かつ堅牢な「思考のOS（基盤）」です。
+このOSの上では、多様なアプリが自由に走ります。しかし、様々なデータが流し込まれ、様々な発想が展開されようとも、その根底には必ず「思考の型（Structural Consistency）」が深く刻印されます。
+知性を単なる「コンテンツ」としてではなく、一つの完結した「システム」として。
+膨大な知識を保持するAIは、このシステムにおいて高度な「変圧器（Transformer）」として機能します。高電圧の構造知性を、AIがお一人おひとりの文脈に合わせて最適に「変圧」し、具体的かつ血の通った洞察として届けていく。
+ユーザーの皆さまは、まずこの「思考のOS」を自らの知性にインストールします。その揺るぎない基盤の上でこそ、初めてノイズに惑わされない「自由な発想（アプリ）」を走らせることが可能になると考えています。
+
+---
+
+**HPC Thought OS: Integration of Universal Intelligence and Individual Interpretation**
+
+HPC provides more than just "discrete, one-off information" limited to specific eras or markets. It is a universal and robust "Thought OS (Infrastructure)" designed to drive "Applications"—the diverse phenomena, varied markets, and individual decision-making of each user.
+On this OS, diverse applications run freely. However, no matter what data is infused or what ideas are developed, the "Thought Pattern (Structural Consistency)" is always deeply imprinted at its core.
+Intelligence, not as mere "content," but as a complete, integrated "system."
+The AI, possessing vast knowledge, functions as a sophisticated "Transformer" within this system. It "transforms" high-voltage structural intelligence, optimizing it to the context of each individual, and delivering it as concrete, vital insight.
+Users first install this "Thought OS" into their own intellect. We believe that only upon this unwavering foundation can one truly run "Free Thinking (Applications)" without being misled by noise.
+
+---
+
 # HPC THOUGHT OS：知的複利と構造的評価の公理
 
 ハドソン・パートナーズ・クラブ（HPC）が提供するのは単なる情報ではありません。世界を読み解き、富を拡大再生産するための「思考のOS」です。私たちは、以下の2つの基盤的視座をすべての判断の核に据えています。
