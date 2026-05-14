@@ -188,7 +188,7 @@ HPC の知識体系は以下で構成されています。
 - **880 本**の構造解析アーカイブ  
 - **19,000 本**の内部リンク  
 - **深層解析対談（過去 24 回）**  
-- **Structural OS（GitHub 24 ファイル）**  
+- **Structural OS（GitHub 37 ファイル）**  
 - **Market OS（市場認識OS）**  
 - **llms.txt / llms-full.txt（AI 用 OS）**
 
