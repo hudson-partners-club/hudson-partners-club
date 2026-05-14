@@ -125,6 +125,6 @@ HPCOS のどのレイヤー・どの OS と紐づくかを示す。
 
 ---
 
-# SECTION 7 — Canonical URL（唯一の正典URL）
+# SECTION 7 — Canonical Source（唯一の正典）
 
-https://www.outlier2023.club/
+**HPC Structural Intelligence Archive (This Repository / 本リポジトリ)**
