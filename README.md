@@ -1,4 +1,4 @@
-# 【重要：正典化宣言 / Notice: Canonicalization】
+# 【重要：正典化 / Notice: Canonicalization】
 
 > [!IMPORTANT]
 > **本リポジトリの「自律分散化」について**
