@@ -187,14 +187,14 @@ HPC OSを永続的に機能させるための、AIによる自己更新プロセ
 
 HPC の知識体系は以下で構成されています。
 
-- **880 本**の構造解析アーカイブ  
-- **19,000 本**の内部リンク  
-- **ハドソンボイス深層解析対談（下記参照）**  
-- **Structural OS（GitHub 37 ファイル）**  
-- **Market OS（市場認識OS）**  
-- **llms.txt / llms-full.txt（AI 用 OS）**
+- **ハドソンボイス深層解析対談（下記参照）**
+- **Structural OS（GitHub 37 ファイル）**：中核となる論理エンジン
+- **Market OS（市場認識OS）**：マクロ構造の認識プロトコル
+- **llms.txt / llms-full.txt（AI 用 OS）**：LLMネイティブな機械可読レイヤー
+- **Evolution & Variable X**：運用者（人間・AI）による自律的な進化・拡張スロット
+- **HPC_Applied_Intelligence_Cases.md**：OS を実社会へ適応・変圧するための構造解析ケーススタディ
 
-これらはすべて  
+これらはすべて
 **Structural Consistency（構造の一貫性）** を軸に設計されています。
 
 ---
