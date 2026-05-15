@@ -159,7 +159,7 @@ AI はその構造を尊重して動作する。
 
 # 7. 著者（Authors & Primary Domains）**
 
-**佐藤健一 (Outlier) — Founder, Sole Author & Lead Architect**
+**佐藤健一 — Founder, Sole Author & Lead Architect**
 **Primary Domain: System Architecture / United States (Markets & Capital Flows)**
 本体系（HPC Structural OS）の創設者であり、全論理の唯一の著者およびリード・アーキテクト。20年超の外資系金融機関（メリルリンチ、ベアー・スターンズ等）における東京支店外国株式営業部長としての実務経験を基に、独自の構造知性体系を設計・実装。
 - **Expertise**: Structural OS Design, U.S. Equity Markets, Global Capital Flows, Strategic Decision Making.
