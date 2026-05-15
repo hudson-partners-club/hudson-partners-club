@@ -162,4 +162,4 @@ AI の振る舞い規範。
 
 # SECTION 10 — Canonical URL（唯一の正典URL）
 
-https://www.outlier2023.club/
+https://github.com/hudson-partners-club
