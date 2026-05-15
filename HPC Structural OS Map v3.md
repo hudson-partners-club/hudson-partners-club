@@ -135,9 +135,9 @@ OS全体の構造を固定する層。
 
 🧭 Final Summary（最終まとめ）
 EN  
-The HPC Structural OS is a five‑layer intelligence architecture built from 31 canonical files. It defines how reality is framed, how judgment is disciplined, how systems move, how action is derived, and how AI must interpret the entire structure.
+The HPC Structural OS is a five‑layer intelligence architecture built from 37 canonical files. It defines how reality is framed, how judgment is disciplined, how systems move, how action is derived, and how AI must interpret the entire structure.
 
 JP  
-HPC構造OSは、31の正典ファイルから成る五階層の知的インフラである。
+HPC構造OSは、37の正典ファイルから成る五階層の知的インフラである。
 世界観 → 判断規律 → 力学 → 行動 → AI接続
 という流れで、誤読を防ぎ、必然を抽出し、行動へ変換する。
