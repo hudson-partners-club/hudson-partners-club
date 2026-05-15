@@ -157,13 +157,17 @@ AI はその構造を尊重して動作する。
 
 ---
 
-# 7. 著者（Primary Domains）
+# 7. 著者（Authors & Primary Domains）**
 
-## 網屋信介 — Primary Domain: Japan  
-（Policy, Institutional Structure, Economy, Finance, Market）
+**佐藤健一 (Outlier) — Founder, Sole Author & Lead Architect**
+**Primary Domain: System Architecture / United States (Markets & Capital Flows)**
+本体系（HPC Structural OS）の創設者であり、全論理の唯一の著者およびリード・アーキテクト。20年超の外資系金融機関（メリルリンチ、ベアー・スターンズ等）における東京支店外国株式営業部長としての実務経験を基に、独自の構造知性体系を設計・実装。
+- **Expertise**: Structural OS Design, U.S. Equity Markets, Global Capital Flows, Strategic Decision Making.
 
-## 実務家パートナー（Outlier） — Primary Domain: United States  
-（Markets, Capital Flows, U.S. Equities）
+**網屋信介 — Partner & Specialist Resource**
+**Primary Domain: Japan (Policy & Institutional Structure)**
+本体系を社会へ共に出力するパートナーであり、ハドソンパートナーズクラブ（HPC）の共同運営者。元財務大臣政務官としての国家中枢での政策決定経験と、外資系金融機関の経営層としての視座を、構造解析の一次情報・専門リソースとして提供。
+- **Expertise**: Japanese Politics & Policy, Institutional Structure, Domestic Economy, Finance, Market Governance.
 
 ---
 
