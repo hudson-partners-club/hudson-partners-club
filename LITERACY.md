@@ -32,3 +32,38 @@ HPCは、形式的な「儀式としてのプレゼン」ではなく、思考�
 
 「言葉に思考を奪われない」——。
 この姿勢こそが、日々のニュースの波に流されず、長期的かつ構造的に世界を見通すための土台となります。
+
+---
+
+### [English Version / 英語版]
+
+### **HPC LITERACY: The Intellectual Foundation for Converting Information into Decisions**
+
+In the Hudson Partners Club (HPC), "Literacy" is not the mere collection of knowledge. It refers to the **"Intellectual Dignity"** of capturing information structurally and anchoring it to one's own judgment.
+
+#### **1. Information Literacy: The Rigorous Distinction between Fact and Opinion**
+In the modern information environment, the highest priority for preventing cognitive confusion is the complete separation of "Fact" from "Opinion."
+- **Fact**: Objectively verifiable data (e.g., statistics, documented policy decisions). A shared asset unaffected by emotion or position.
+- **Opinion**: Evaluation and value judgment based on facts. It inherently contains the speaker's "standpoint" and "cognitive biases."
+
+⚠️ **Risks of Confusion**
+- **False Equivalence**: Judgment errors caused by asserting that events with different backgrounds are "the same."
+- **Obfuscation**: Techniques that hide the essence behind jargon to implicitly manipulate the direction of thought.
+
+#### **2. Discourse Literacy: Debate Prowess and Constructive Criticism**
+HPC prioritizes the "battlefield of discourse"—the exchange of thought and strategy—over the formal "ritual of presentation."
+- **Debate**: The ability to deepen arguments by clarifying evidence and facing divergent perspectives.
+- **Constructive Criticism**: Feedback aimed at co-creating better conclusions, rather than mere negation.
+- **Empathy**: The ability to grasp things from different viewpoints, which sublimates valuable debate.
+
+#### **3. The Architecture of Multi-Layered Literacy**
+To absorb deep structural analysis, one must maintain the following composite perspectives:
+- **Media Literacy**: The power to see through the "volume" to the "quality and context" of information.
+- **Policy & Market Literacy**: The power to decode the "structure" and "institutional dynamics" behind superficial price movements or political slogans.
+- **Numerical & Comparative Literacy**: The power to grasp data across historical and international timelines without being misled by statistical staging.
+- **Accountability Literacy**: The resolve to take the helm of one's own destiny using the "map and compass" provided.
+
+#### **4. Conclusion: Why does it happen this way in the first place?**
+We do not condone easy "simplification." However, sharpening the essence of complex phenomena to the point where it can be explained clearly even to a child (**"Explain it to me like I'm five"**) is the ultimate proof of deep understanding.
+
+**"Never let words steal your capacity for thought."** This stance is the bedrock for viewing the world long-term and structurally, without being swept away by the daily waves of news.
