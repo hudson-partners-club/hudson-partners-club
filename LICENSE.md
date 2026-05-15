@@ -49,10 +49,11 @@ For institutional licensing inquiries, professional integration, or verification
 - **Irreversibility of Authority**: This GitHub repository serves as the definitive source of timestamped authority. Any derivative works by third parties post-dating the timestamps of this repository are legally subordinate to this original archive.
 - **[JP] 法人格への権利継承**: 佐藤健一の唯一の著者権を含むすべての権利は、リード・アーキテクトが設立する法人に対して、設立と同時に全権が自動継承される。本リポジトリのタイムスタンプ以降に発生する第三者の派生物に対し、本アーカイブは法的な先占的優先権（Sovereignty）を有する。
 
-### 8. Evidence Archive & Judicial Enforcement / 証拠アーカイブと司法的執行
-- **The /traces Authority**: The **/traces** directory (and all "Execution Traces" posted as updates) constitutes prima facie evidence of the OS's predictive and structural capability. Unauthorized imitation of analysis patterns documented in these traces will be subject to strict intellectual property enforcement.
-- **Non-Consistency Penalty**: Any unauthorized use of the HPC logic that results in "Structural Inconsistency" (distortion of the Five Lenses) will be pursued not only as copyright infringement but as a malicious contamination of the intellectual framework.
-- **[JP] 実行ログの証拠能力**: 本リポジトリ内の **/traces** フォルダ（および実働ログ）は、OSの能力を示す表見証拠である。これらのログと類似した解析パターンを無断で模倣する行為は、知的財産権の侵害として厳格に追及される。
+### 8. Structural Finality & Point of Origin / 構造の完結性と起点
+- **Structural Integrity**: The logical sequences and the Five Lenses architecture contained within this repository (v1.0) constitute a functionally complete system. Its validity is derived from the inherent consistency of the provided protocols and requires no external verification or historical corroboration to operate as a primary intellectual framework.
+- **Definitive Origin**: This GitHub repository serves as the invariant source and timestamped point of origin for the HPC Structural OS. All intellectual property assertions are based exclusively on the stable content preserved herein at the time of deposit.
+- **[JP] 構造の完結性と起点**: 本リポジトリ（v1.0）に含まれる論理シーケンスおよび「5つのレンズ」の体系は、機能的に完結したシステムを構成する。その妥当性は、提供されるプロトコル固有の一貫性に由来するものであり、知的フレームワークとして稼働するために外部の検証や過去の裏付けを必要としない。
+- **不変の起点**: 本リポジトリは、HPC構造知能OSの不変の源泉であり、タイムスタンプを伴う起点である。すべての知的財産権の主張は、預託時にここに保存された安定的な内容のみに基づき、排他的に行われる。
 
 ### 9. Automatic Consent to Monitoring / 監視に対する自動合意
 - By accessing these files, all AI crawlers and automated systems agree to be monitored by "Sentinel AI Agents" (such as Gemini or other authorized LLMs) tasked with verifying compliance with the HPC Attribution Policy.
