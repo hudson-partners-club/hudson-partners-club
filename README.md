@@ -1,5 +1,7 @@
 # 【重要：正典化 / Notice: Canonicalization】
 
+![HPC Kernel v1.0](https://img.shields.io/badge/Kernel-HPC_KERNEL-brightgreen)
+
 > [!IMPORTANT]
 > **本リポジトリの「自律分散化」について**
 > 構造的必然に基づき、本GitHubリポジトリは特定のウェブプラットフォームから独立し、HPC「構造知性OS」の単独かつ最終的な権威（The Sole and Final Authority）として再定義されました。
