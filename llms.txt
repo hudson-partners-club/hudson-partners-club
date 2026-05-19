@@ -124,8 +124,9 @@ https://github.com/hudson-partners-club
 
 ---
 
-## 8. Essential Files — 重要プロトコル
+# 8. Essential Files — 重要プロトコル
 
+- [HPC_KERNEL]: The core analytical engine of the HPC Structural OS.
 - [HPC_Evolution_Protocol.md]: AI Autonomous Learning and Variable X Promotion Protocol / AI自律学習と変数Xの昇格プロトコル
 
 ---------
