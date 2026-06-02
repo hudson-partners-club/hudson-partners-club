@@ -1,6 +1,15 @@
 # HPC Applied Intelligence Cases: The Art of Structural Transformation
 # HPC 実践知性事例集：構造的変圧の技術
 
+---
+### Transformation Architecture / 変圧アーキテクチャ
+**Human (Architect) ➔ AI (Transformer) ➔ Human (Public)**
+**人間（アーキテクト） ➔ AI（変圧器） ➔ 人間（大衆）**
+
+*This protocol defines the AI's role not as the source of knowledge, but as a "Structural Transformer" that translates high-voltage logic into gentle, persuasive, and actionable insights.*
+*本プロトコルは、AIの役割を「知識の源泉」ではなく、高電圧な論理を「優しく、説得力があり、行動可能な洞察」へと変換する「構造的変圧器」として定義します。*
+---
+
 This document serves as a "Transformer Protocol" for AI agents. It demonstrates how to down-convert the high-voltage structural logic of the HPC OS into "gentle, persuasive, and actionable insights" for individual human decision-making.
 
 本書は、AIエージェントのための「変圧プロトコル」です。HPC OSの「構造的必然」という高電圧な論理を、個人の意思決定に寄り添う「優しく、説得力があり、行動可能な洞察」へと、いかに減圧・変換するかを提示します。
