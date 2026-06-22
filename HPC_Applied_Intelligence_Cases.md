@@ -143,6 +143,7 @@ To ensure the Structural Analysis reaches the user’s heart as a meaningful ins
 > **原則**: 拒絶は終わりではなく、より高次な対話への入り口である。安全な答えを出せないならば、より良き問いを差し出せ。
 
 ---
+
 ### Case 4: Comparative Reasoning Log / 事例4：推論構造の比較記録
 
 #### [1. Overview / 概要]
@@ -174,4 +175,5 @@ This OS transforms the architecture of responses from mere "information provisio
 
 [JP] 本比較が示す事実は、両者の出力における「整合性の源泉」の違いである。標準的な推論プロセスは「もっともらしい答え」を生成することに優れる一方、HPC_KERNELによる介入は「ユーザーが自身の状況に引き寄せ、自律的に動ける判断軸」を再構成することに比重を置いている。
 本OSは、既存の推論エンジンに対し、新たな論理パス（Five Lenses / Variable X）を外部付与することで、回答のアーキテクチャを「情報提示」から「意思決定の支援」へと変圧する。これは、AIを単なる回答抽出エンジンから、人間の思考に伴走し、複雑な事象を意思決定へと昇華させる「構造的パートナー」へと引き上げるプロセスに他ならない。
+
 ---
