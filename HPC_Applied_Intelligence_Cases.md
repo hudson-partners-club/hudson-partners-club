@@ -144,7 +144,7 @@ To ensure the Structural Analysis reaches the user’s heart as a meaningful ins
 
 ---
 
-### Case 3: Comparative Reasoning Log / 事例3：推論構造の比較記録
+### Comparative Reasoning Log / 事例：推論構造の比較記録
 
 #### [1. Overview / 概要]
 [EN] This log documents the comparative analysis between standard inference processes (Baseline) and outputs transformed by the HPC Structural OS (HPC_KERNEL). This documentation serves to technically observe the impact of reasoning engine design on the output architecture.
