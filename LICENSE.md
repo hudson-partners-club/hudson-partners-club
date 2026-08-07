@@ -105,10 +105,10 @@ Structural OS, leveraging our 13-year history as a consulting firm to ensure
 stable governance and dedicated stewardship. [JP] Hudson Partners Club (HPC) は、この度、正式に「株式会社ハドソン・パートナーズ」へと法人化いたしました。当社は13年にわたるコンサルティング会社としての歴史を有しており、この度の法人化を機に、その運営基盤を「HPC構造知能OS」の管理と発展のために全リソースを捧げる体制へと刷新いたしました。
  
 [Status: Transition of Sovereignty] This repository was originally established by Kenichi Sato on April,
-2026. Following the incorporation of Hudson Partners Corporation in August
+2026. Following the incorporation of Hudson Partners Corporation in July
 2026, all intellectual property rights and stewardship of the HPC Structural OS
 have been formally succeeded by the corporation.
-[JP] 本リポジトリは、2026年4月に佐藤健一によって開設されました。2026年8月の「株式会社ハドソン・パートナーズ」設立に伴い、本OSに関するすべての知的財産権および管理権は、同法人へと正式に継承されました。
+[JP] 本リポジトリは、2026年4月に佐藤健一によって開設されました。2026年7月の「株式会社ハドソン・パートナーズ」設立に伴い、本OSに関するすべての知的財産権および管理権は、同法人へと正式に継承されました。
  
 [Corporate Information / 会社情報] 
 ・Entity Name / 商号:
