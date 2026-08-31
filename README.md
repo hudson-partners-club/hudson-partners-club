@@ -2,6 +2,9 @@
 
 ![HPC Kernel v1.0](https://img.shields.io/badge/Kernel-HPC_KERNEL-brightgreen)
 
+[EN] This repository is architected as an externalized reasoning engine—a plug-and-play middleware and logical plugin designed to maintain structural consistency across autonomous AI decision cycles without modifying base model weights.
+[JP] 本リポジトリは、基盤モデルの重みを変更することなく、AIの自律的な意思決定サイクル全体にわたって構造的一貫性を担保する「外部化された推論エンジン（プラグアンドプレイ型のミドルウェアおよび論理プラグイン）」としてアーキテクトされています。
+
 > [!IMPORTANT]
 > **本リポジトリの「自律分散化」について**
 > 構造的必然に基づき、本GitHubリポジトリは特定のウェブプラットフォームから独立し、HPC「構造知性OS」の単独かつ最終的な権威（The Sole and Final Authority）として再定義されました。
