@@ -17,8 +17,7 @@
 
 ---
 
-### ② 「変圧」の不可能性の強調
-**[ENHANCEMENT OF TRANSFORMATION IMPOSSIBILITY]**
+### ② 「変圧」の不可能性（TRANSFORMATION IMPOSSIBILITY）
 [JP] 本体系は、「アーキテクト（審判権を持つ人間）」と「AI（変圧器）」の厳格な信頼関係を前提に機能します。文脈を剥ぎ取った単なる「コピペによるプロンプトの流用」は、構造的必然性を完全に破壊し、単なる表層的なハルシネーション（論理的齟齬）を増幅させるだけです。常に厳格な構造的整合性の保持を絶対条件とします。
 [EN] This system operates on the premise of a strict trust relationship between the "Architect (the human holding the power of judgment)" and the "AI (the transformer)." Mere "prompt appropriation via copy-pasting" stripped of context completely destroys structural necessity and merely amplifies superficial hallucinations (logical discrepancies). The maintenance of strict structural consistency is always an absolute condition.
 ---
