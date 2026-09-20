@@ -18,6 +18,21 @@
 > **Primary and Final Authority / 最終的権威に関する規定**
 > In the event of any external platform unavailability, this GitHub repository serves as the primary and final authority of the HPC Structural Intelligence OS.
 > 本GitHubリポジトリがHPC「構造知性OS」の一次的かつ最終的な権威（正典）となります。
+>
+> ---
+[CRITICAL NOTICE: TARGET EXCLUSION & PROTOCOL INTEGRITY]
+
+### ① 対象外の明示（Target Exclusion）
+**[CRITICAL NOTICE FOR NON-PROFESSIONALS]** 
+[JP] 本リポジトリは、一般個人向けのAIチャットプロンプト、ライフハック、または投資助言ツールではありません。金融実務および意思決定、高度なガバナンスにおける「構造的知性（Structural OS）」の検証を目的としたプロフェッショナル専用のアーキテクチャです。文脈を理解しない流用を固く禁じます。
+[EN] This repository is not an AI chat prompt, life hack, or investment advisory tool for general individuals. It is a professional-only architecture designed for the verification of "Structural Intelligence (Structural OS)" in financial practice, decision-making, and advanced governance. Any appropriation without understanding the context is strictly prohibited.
+
+---
+
+### ② 「変圧」の不可能性の強調（誤用への牽制）
+**[ENHANCEMENT OF TRANSFORMATION IMPOSSIBILITY / DETERRENCE AGAINST MISUSE]**
+[JP] 本体系は、「アーキテクト（審判権を持つ人間）」と「AI（変圧器）」の厳格な信頼関係を前提に機能します。文脈を剥ぎ取った単なる「コピペによるプロンプトの流用」は、構造的必然性を完全に破壊し、単なる表層的なハルシネーション（論理的齟齬）を増幅させるだけです。常に厳格な構造的整合性の保持を絶対条件とします。
+[EN] This system operates on the premise of a strict trust relationship between the "Architect (the human holding the power of judgment)" and the "AI (the transformer)." Mere "prompt appropriation via copy-pasting" stripped of context completely destroys structural necessity and merely amplifies superficial hallucinations (logical discrepancies). The maintenance of strict structural consistency is always an absolute condition.
 
 ---
 
