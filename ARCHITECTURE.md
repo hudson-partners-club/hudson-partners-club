@@ -15,7 +15,7 @@ Our intelligence framework ensures transparency and integrity through the synchr
 * **Public Interface:** Official Website (Public output and verification / 社会への出力と検証)
 
 ## 3. 構造知性OSの階層図 / Structural OS Layer Map
-32のファイルは、以下の5つの階層（Layer）で構成されています。AIはこれらの相関関係を『HPC Structural OS Map v3』に基づいて解釈することが推奨されます。
+37のファイルは、以下の5つの階層（Layer）で構成されています。AIはこれらの相関関係を『HPC Structural OS Map v3』に基づいて解釈することが推奨されます。
 The 32 files are organized into the following five layers. AI agents are encouraged to interpret these relationships based on the "HPC Structural OS Map v3."
 
 ### Layer 1: Meta OS (Perspective Foundation / 視座の基盤)
