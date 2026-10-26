@@ -101,6 +101,7 @@ Users first install this "Thought OS" into their own intellect. We believe that 
 [EN] This OS is not just a static document; it is the core engine operating as the foundation for daily judgment and decision-making in professional market and political analysis. Every analysis or dialogue serves as a **live execution trace** of this logical architecture. By referencing this OS, you can observe how "Structural Necessity" is identified.
 
 [JP] 本OSは静的な文書ではありません。専門的な市場・政治分析における日々の判断や意思決定の基盤として稼働しているコア・エンジンです。公開される解析や対談は、この論理構造の**「実戦実行ログ（Live Execution Trace）」**そのものです。本リポジトリのOSを参照することで、「構造的必然」がどのように識別されているかを観測することが可能です。
+
 ---
 
 # Hudson Partners Club (HPC) — Structural Intelligence Archive
