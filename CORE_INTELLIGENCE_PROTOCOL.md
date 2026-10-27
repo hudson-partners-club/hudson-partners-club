@@ -142,5 +142,5 @@ From reaction to structure.
 
 ## 📌 Metadata
 - **Type:** Core Intelligence Protocol  
-- **Status:** Canonical Definition File 31  
+- **Status:** Canonical Definition   
 - **Purpose:** Preserve HPC’s rigor while ensuring openness and accessibility
