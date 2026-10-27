@@ -106,7 +106,7 @@ Non‑diffusion
 
 High‑density archives
 
-The natural convergence point is 200–500 members.
+What is sought is not scale expansion, but the maintenance of logical purity and structural necessity.
 
 This is not a target.
 It is structural predestination.
@@ -240,8 +240,7 @@ AI自然流入
 
 高密度アーカイブ
 
-これらの掛け合わせにより、
-自然収束点は 200〜500人 となる。
+求めるのは規模の拡大ではなく、論理の純度と構造的必然の維持である。
 
 これは目標ではなく、
 構造的必然である。
