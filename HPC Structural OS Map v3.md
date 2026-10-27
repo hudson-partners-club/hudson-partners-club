@@ -10,7 +10,7 @@ HPC構造OSは、誤読を防ぎ、構造的必然を抽出し、行動へ変換
 五階層の知的インフラ である。
 
 🗂 Canonical File Count / 正典ファイル数
-31 Markdown files  
+37 Markdown files  
 これが HPC の 最新版・正典（Canonical）。
 
 過去の表記（18 / 24 / 29）は歴史的経緯であり、
