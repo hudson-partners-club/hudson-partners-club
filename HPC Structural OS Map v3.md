@@ -1,4 +1,4 @@
-📘 HPC Structural OS Map v3（Canonical 31 Files）
+📘 HPC Structural OS Map v3（Canonical 37 Files）
 Hudson Partners Club — Structural Intelligence Operating System
 ハドソン・パートナーズ・クラブ — 構造知性OS（最新版）
 🧭 Overview / 全体像
